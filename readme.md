@@ -1,1 +1,1 @@
-# 
+# QR code generator for wifi login
